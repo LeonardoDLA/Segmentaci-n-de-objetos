@@ -47,6 +47,9 @@ El sistema permite detectar y contar objetos presentes en una imagen cenital med
 - Puede fallar con objetos muy pegados.
 - Sensible a sombras o iluminación irregular.
 
-## Autor
+## Autores
 
-Tu nombre
+BRIAN LEYVA DE LA TORRE  
+RAFAEL MEZA LOPEZ 
+LEONARDO DE LIRA ARTEAGA  
+RAFAEL WALDO JONGUITUD
