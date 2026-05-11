@@ -49,7 +49,7 @@ El sistema permite detectar y contar objetos presentes en una imagen cenital med
 
 ## Autores
 
+LEONARDO DE LIRA ARTEAGA
 BRIAN LEYVA DE LA TORRE  
-RAFAEL MEZA LOPEZ
-LEONARDO DE LIRA ARTEAGA  
+RAFAEL MEZA LOPEZ  
 RAFAEL WALDO JONGUITUD
