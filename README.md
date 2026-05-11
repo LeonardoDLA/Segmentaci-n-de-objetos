@@ -48,7 +48,7 @@ El sistema permite detectar y contar objetos presentes en una imagen cenital med
 - Sensible a sombras o iluminación irregular.
 
 ## Autores
-LEONARDO DE LIRA ARTEAGA
-BRIAN LEYVA DE LA TORRE
-RAFAEL MEZA LOPEZ
-RAFAEL WALDO JONGUITUD
+- LEONARDO DE LIRA ARTEAGA
+- BRIAN LEYVA DE LA TORRE
+- RAFAEL MEZA LOPEZ
+- RAFAEL WALDO JONGUITUD
