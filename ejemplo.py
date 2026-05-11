@@ -3,7 +3,7 @@ from vision_lib import ContadorObjetos
 import cv2
 import os
 
-nombre_imagen = ("imagenes_prueba/negro2.jpg")
+nombre_imagen = ("imagenes_prueba/mas2.jpg")
 
 if not os.path.exists(nombre_imagen):
     print("No se encontró la imagen")
